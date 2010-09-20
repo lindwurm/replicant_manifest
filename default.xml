@@ -16,7 +16,7 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" />
 
   <project path="dalvik" name="platform/dalvik" />
-  <project path="development" name="platform/development" remote="replicant" revision="replicant" />
+  <project path="platform/development" name="development" remote="replicant" revision="replicant" />
   <project path="frameworks/base" name="platform/frameworks/base" remote="replicant" revision="replicant" />
   <project path="frameworks/opt/com.google.android" name="platform/frameworks/opt/com.google.android" />
   <project path="frameworks/opt/com.google.android.googlelogin" name="platform/frameworks/opt/com.google.android.googlelogin" />
@@ -119,7 +119,7 @@
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
-  <project path="external_srec" name="platform/external/srec" remote="replicant" revision="replicant" />
+  <project path="external/srec" name="external_srec" remote="replicant" revision="replicant" />
   <project path="external/strace" name="platform/external/strace" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />

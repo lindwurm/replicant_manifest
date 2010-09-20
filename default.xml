@@ -5,7 +5,7 @@
   
   <remote  name="replicant" fetch="git://gitorious.org/replicant/" revision="replicant"/>
 
-  <project path="build" name="build">
+  <project path="build" name="build" remote="replicant" revision="replicant">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 

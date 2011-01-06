@@ -152,7 +152,7 @@
 
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" revision="master" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" />
+  <project path="hardware/libhardware" name="replicant/android_hardware_libhardware" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="github" />
   <project path="hardware/msm7k" name="replicant/android_hardware_msm7k" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />

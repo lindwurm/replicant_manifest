@@ -161,6 +161,7 @@
   <project path="hardware/ril" name="replicant/ril" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
+  <project path="hardware/akmd_free" name="replicant/akmd_free" remote="gitorious" revision="replicant-2.2" />
 
   <project path="kernel-msm" name="replicant/cm-kernel" remote="gitorious" revision="replicant-2.2" />
 

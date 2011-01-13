@@ -31,7 +31,7 @@
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" />
   <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" remote="github" />
   <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" />
-  <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" remote="github" />
+  <project path="device/htc/buzz" name="replicant/android_device_htc_buzz" remote="gitorious" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/dream_sapphire" name="replicant/android_device_htc_dream_sapphire" remote="gitorious" revision="replicant-2.2" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />
@@ -164,6 +164,9 @@
   <project path="hardware/akmd_free" name="replicant/akmd_free" remote="gitorious" revision="replicant-2.2" />
 
   <project path="kernel-msm" name="replicant/cm-kernel" remote="gitorious" revision="replicant-2.2" />
+  <!-- We can probably expect the htc-kernel-wildfire-2.6.32 to stay on froyo, 
+       so just track master. There are no other branches. -->
+  <project path="kernel-buzz" name="HCDRJacob/htc-kernel-wildfire-2.6.32" revision="master" />
 
   <project path="ndk" name="platform/ndk" revision="master" />
 

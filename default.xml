@@ -31,7 +31,7 @@
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" />
   <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" remote="github" />
   <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" />
-  <project path="device/htc/buzz" name="replicant/android_device_htc_buzz" remote="gitorious" />
+  <project path="device/htc/buzz" name="replicant/android_device_htc_buzz" remote="gitorious" revision="replicant-2.2"/>
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/dream_sapphire" name="replicant/android_device_htc_dream_sapphire" remote="gitorious" revision="replicant-2.2" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />

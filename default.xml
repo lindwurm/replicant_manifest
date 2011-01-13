@@ -166,7 +166,7 @@
   <project path="kernel-msm" name="replicant/cm-kernel" remote="gitorious" revision="replicant-2.2" />
   <!-- We can probably expect the htc-kernel-wildfire-2.6.32 to stay on froyo, 
        so just track master. There are no other branches. -->
-  <project path="kernel-buzz" name="HCDRJacob/htc-kernel-wildfire-2.6.32" revision="master" />
+  <project path="kernel-buzz" name="HCDRJacob/htc-kernel-wildfire-2.6.32" remote="github" revision="master" />
 
   <project path="ndk" name="platform/ndk" revision="master" />
 

@@ -9,7 +9,7 @@
   <default revision="froyo"
            remote="korg" />
 
-  <project path="build" name="CyanogenMod/android_build" remote="github">
+  <project path="build" name="replicant/android_build" remote="gitorious" revision="replicant-2.2">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 

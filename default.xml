@@ -47,7 +47,7 @@
   <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" remote="github" />
   <project path="device/kyocera/m6000" name="koush/android_device_kyocera_m6000" remote="github" revision="master" />
   <project path="device/motorola/backflip" name="CyanogenMod/android_device_motorola_backflip" remote="github" revision="master" />
-  <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" remote="github" revision="master" />
+  <project path="device/motorola/morrison" name="replicant/android_device_motorola_morrison" remote="gitorious" revision="replicant-2.2" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
   <project path="device/malata/smb_a1002" name="CyanogenMod/android_device_malata_smb_a1002" remote="github" />
   <project path="device/samsung/bmlunlock" name="CyanogenMod/android_device_samsung_bmlunlock" remote="github" revision="master" />

@@ -1,3 +1,38 @@
+Replicant
+=========
+
+About
+-----
+
+Replicant is a distribution of Android that is 100% Free Software.
+
+Most of Android is licensed freely under the Apache License 2.0. The Linux core is mostly Free Software under the GPLv2. However, there are numerous components of the default software stack on the devices that are proprietary software. Most notably, nearly any component that touches the hardware directly is proprietary software.
+
+We are not experts in embedded devices; we are just enthusiastic hackers that are giving a try.
+
+Note: As for now, Replicant may include components for which the license is not clear. See the reports on CyanogenMod issue tracker:
+* <http://code.google.com/p/cyanogenmod/issues/detail?id=3357>
+* <http://code.google.com/p/cyanogenmod/issues/detail?id=3764>
+
+Credits
+-------
+
+Replicant is based on CyanogenMod <http://www.cyanogenmod.com/> which is based on the Android Open Source Project <http://www.android.com/>. 
+Replicant vendor files are a modified version of CyanogenMod vendor files.
+
+Contributors
+------------
+
+Since replicant uses code from CyanogenMod, which uses code from AOSP, the list of contributors must be long.
+There is a list of people who contribute(d) to Replicant on <http://trac.osuosl.org/trac/replicant/wiki/People>. Note that this list is not exhaustive. 
+
+Copyright for the Logo
+----------------------
+
+Copyright 2011 Mirella Vedovetto 
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
 CyanogenMod
 ===========
 

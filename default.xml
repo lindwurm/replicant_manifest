@@ -159,7 +159,7 @@
   <project path="hardware/qcom/mm-core" name="CyanogenMod/android_hardware_qcom_mm-core" remote="github" />
   <project path="hardware/qcom/mm-video" name="CyanogenMod/android_hardware_qcom_mm-video" remote="github" />
   <project path="hardware/ril" name="replicant/ril" remote="gitorious" revision="replicant-2.2" />
-  <project path="hardware/ril/htcgeneric-ril" name="replicant/hycs-hardware_xdandroid-ril" remote="gitorious" revision="replicant-2.2" />
+  <project path="hardware/ril/htcgeneric-ril" name="replicant/hardware_xdandroid-ril" remote="gitorious" revision="replicant-2.2" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/akmd_free" name="replicant/akmd_free" remote="gitorious" revision="replicant-2.2" />
@@ -167,7 +167,9 @@
   <project path="kernel-msm" name="replicant/cm-kernel" remote="gitorious" revision="replicant-2.2" />
   <!-- We can probably expect the htc-kernel-wildfire-2.6.32 to stay on froyo, 
        so just track master. There are no other branches. -->
+  <!-- HTC Wildfire kernel
   <project path="kernel-buzz" name="HCDRJacob/htc-kernel-wildfire-2.6.32" remote="github" revision="master" />
+  -->
 
   <project path="ndk" name="platform/ndk" revision="master" />
 

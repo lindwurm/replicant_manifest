@@ -89,7 +89,7 @@
   -->
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
-  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
+  <project path="device/samsung/aries-common" name="replicant/android_device_samsung_aries-common" remote="gitorious" revision="replicant-2.3" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" />
   <!--
@@ -107,7 +107,7 @@
   -->
   <project path="device/samsung/galaxys2" name="CyanogenMod/android_device_samsung_galaxys2" />
   <project path="device/samsung/galaxys2att" name="CyanogenMod/android_device_samsung_galaxys2att"/>
-  <project path="device/samsung/galaxysmtd" name="CyanogenMod/android_device_samsung_galaxysmtd" />
+  <project path="device/samsung/galaxysmtd" name="replicant/android_device_samsung_galaxysmtd" remote="gitorious" revision="replicant-2.3" />
   <!--
   <project path="device/samsung/galaxys4g" name="CyanogenMod/android_device_samsung_galaxys4g" />
   -->

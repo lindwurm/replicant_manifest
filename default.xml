@@ -17,7 +17,7 @@
 
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" />
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" remote="github" revision="d61e56ab365e9c4b6cecadca1d92911401712b19" />
 
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
   <project path="development" name="replicant/android_development" remote="gitorious" revision="replicant-2.2" />

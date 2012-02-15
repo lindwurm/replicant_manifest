@@ -14,7 +14,7 @@
   <default revision="gingerbread-release"
            remote="github" />
 
-  <project path="build" name="replicant/android_build" remote="gitorious" revision="replicant-2.3">
+  <project path="build" name="replicant/build" remote="gitorious" revision="replicant-2.3">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" />

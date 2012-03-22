@@ -3,11 +3,11 @@
 	<!-- remote -->
 
 	<remote name="aosp"
-		fetch="http://android.googlesource.com/"
+		fetch="git://android.googlesource.com/"
 		review="review.source.android.com" />
 
 	<remote name="github"
-		fetch="http://github.com/"
+		fetch="git://github.com/"
 		review="review.cyanogenmod.com" />
 
 	<remote name="gitorious"

@@ -69,7 +69,7 @@
 
 	<project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
 	<project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-	<project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
+	<project path="bootable/recovery" name="replicant/bootable_recovery" remote="gitorious" revision="replicant-2.3" />
 	
 	<!-- hardware -->
 

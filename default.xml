@@ -105,6 +105,7 @@
 	<project path="kernel-aries" name="replicant/kernel-aries" remote="gitorious" revision="replicant-2.3" />
 	<project path="kernel-crespo" name="replicant/kernel-crespo" remote="gitorious" revision="replicant-2.3" />
 	<project path="kernel-msm" name="replicant/kernel-msm" remote="gitorious" revision="replicant-2.3" />
+	<project path="kernel-apollo" name="replicant/kernel-apollo" remote="gitorious" revision="replicant-2.3" />
 
 	<!-- device -->
 

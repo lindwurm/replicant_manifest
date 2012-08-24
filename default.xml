@@ -8,6 +8,9 @@
            fetch="git://github.com/"
            review="review.cyanogenmod.com" />
 
+  <remote name="gitorious"
+           fetch="git://gitorious.org/" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 

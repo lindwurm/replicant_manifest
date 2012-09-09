@@ -49,7 +49,7 @@
 	<project path="system/vold" name="CyanogenMod/android_system_vold" />
 	<project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
-	<!-- framework -->
+	<!-- frameworks -->
 
 	<project path="frameworks/base" name="replicant/frameworks_base" remote="gitorious" revision="replicant-2.3" />
 	<project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />

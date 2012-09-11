@@ -23,7 +23,7 @@
 
 	<!-- build -->
 
-	<project path="build" name="CyanogenMod/android_build">
+	<project path="build" name="replicant/build" remote="gitorious" revision="replicant-4.0" />
 		<copyfile src="core/root.mk" dest="Makefile" />
 	</project>
 	<project path="prebuilt" name="CyanogenMod/android_prebuilt" />

@@ -23,7 +23,7 @@
 	<project path="build" name="replicant/build" remote="gitorious" revision="replicant-2.3">
 		<copyfile src="core/root.mk" dest="Makefile" />
 	</project>
-	<project path="prebuilt" name="CyanogenMod/android_prebuilt" />
+	<project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
 
 	<!-- ndk/sdk -->
 

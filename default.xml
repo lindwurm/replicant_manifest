@@ -109,6 +109,7 @@
 	<!-- kernel -->
 
 	<project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" revision="ics" />
+	<project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" revision="ics" />
 
 	<!-- device -->
 
@@ -120,6 +121,7 @@
 	<project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
 	<project path="device/samsung/maguro" name="replicant/android_device_samsung_maguro" remote="gitorious" revision="ics" />
 	<project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" revision="ics" />
+	<project path="device/samsung/galaxys2" name="replicant/device_samsung_galaxys2" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- external -->
 
@@ -295,6 +297,7 @@
 	<project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" />
 	<project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
 	<project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
+	<project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" revision="ics" />
 	<project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
 	<project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
 	<project path="packages/inputmethods/OpenWnn" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />

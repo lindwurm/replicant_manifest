@@ -121,7 +121,7 @@
 	<project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
 	<project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
 	<project path="device/samsung/maguro" name="replicant/android_device_samsung_maguro" remote="gitorious" revision="ics" />
-	<project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" revision="ics" />
+	<project path="device/samsung/tuna" name="replicant/android_device_samsung_tuna" revision="replicant-4.0" remote="gitorious" />
 	<project path="device/samsung/galaxys2" name="replicant/device_samsung_galaxys2" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- external -->

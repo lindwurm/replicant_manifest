@@ -320,7 +320,7 @@
 	<project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" />
 	<project path="packages/apps/CMScreenshot" name="CyanogenMod/android_packages_apps_CMScreenshot" />
 	<project path="packages/apps/CMWimaxSettings" name="CyanogenMod/android_packages_apps_CMWimaxSettings" />
-	<project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
+	<project path="packages/apps/Contacts" name="replicant/packages_apps_Contacts" remote="gitorious" revision="replicant-2.3" />
 	<project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
 	<project path="packages/apps/DockAudio" name="CyanogenMod/android_packages_apps_DockAudio" />
 	<project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />

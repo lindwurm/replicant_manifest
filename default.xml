@@ -23,7 +23,7 @@
 	<project path="build" name="replicant/build" remote="gitorious" revision="replicant-2.3">
 		<copyfile src="core/root.mk" dest="Makefile" />
 	</project>
-	<project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-2.3.7_r1" />
+	<project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="45386dbd3f1ed4d78042e39540f3fa3d44024d60" />
 
 	<!-- ndk/sdk -->
 

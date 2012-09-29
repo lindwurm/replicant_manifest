@@ -69,7 +69,7 @@
 
 	<!-- vendor -->
 
-	<project path="vendor/cm" name="replicant/android_vendor_cm" remote="gitorious" revision="ics" />
+	<project path="vendor/replicant" name="replicant/vendor_replicant" remote="gitorious" revision="replicant-4.0" />
 	<project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
 	<project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
 	<project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />

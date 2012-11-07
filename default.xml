@@ -90,10 +90,10 @@
 
 	<project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
 	<project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" />
-	<project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
+	<project path="hardware/broadcom/wlan" name="replicant/hardware_broadcom_wlan" remote="gitorious" revision="replicant-4.0" />
 	<project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
 	<project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-	<project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
+	<project path="hardware/libhardware" name="replicant/hardware_libhardware" remote="gitorious" revision="replicant-4.0" />
 	<project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
 	<project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
 	<project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
@@ -101,7 +101,7 @@
 	<project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
 	<project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
 	<project path="hardware/ril/samsung-ril" name="replicant/hardware_ril_samsung-ril" remote="gitorious" revision="master" />
-	<project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
+	<project path="hardware/samsung" name="replicant/hardware_samsung" remote="gitorious" revision="replicant-4.0" />
 	<project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
 	<project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
 	<project path="hardware/ti/omap4xxx/gralloc" name="replicant/hardware_ti_omap4xxx_gralloc" remote="gitorious" revision="replicant-4.0" />

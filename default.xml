@@ -108,9 +108,9 @@
 	<project path="hardware/tinyalsa-audio" name="replicant/hardware_tinyalsa_audio" remote="gitorious" revision="replicant-4.0" />
 	<!-- kernel -->
 
-	<project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" revision="ics" />
-	<project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" revision="ics" />
-	<project path="kernel/samsung/crespo" name="CyanogenMod/android_kernel_samsung_crespo" revision="ics" />
+	<project path="kernel/samsung/tuna" name="replicant/kernel_samsung_tuna" remote="gitorious" revision="replicant-4.0" />
+	<project path="kernel/samsung/smdk4210" name="replicant/kernel_samsung_smdk4210" remote="gitorious" revision="replicant-4.0" />
+	<project path="kernel/samsung/crespo" name="replicant/kernel_samsung_crespo" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- device -->
 

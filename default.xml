@@ -104,7 +104,6 @@
 	<project path="hardware/samsung" name="replicant/hardware_samsung" remote="gitorious" revision="replicant-4.0" />
 	<project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
 	<project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-	<project path="hardware/ti/omap4xxx/gralloc" name="replicant/hardware_ti_omap4xxx_gralloc" remote="gitorious" revision="replicant-4.0" />
 	<project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
 	<project path="hardware/tinyalsa-audio" name="replicant/hardware_tinyalsa_audio" remote="gitorious" revision="replicant-4.0" />
 	<!-- kernel -->

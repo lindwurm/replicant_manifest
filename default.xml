@@ -106,11 +106,13 @@
 	<project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
 	<project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
 	<project path="hardware/tinyalsa-audio" name="replicant/hardware_tinyalsa-audio" remote="gitorious" revision="replicant-4.0" />
+
 	<!-- kernel -->
 
 	<project path="kernel/samsung/tuna" name="replicant/kernel_samsung_tuna" remote="gitorious" revision="replicant-4.0" />
 	<project path="kernel/samsung/smdk4210" name="replicant/kernel_samsung_smdk4210" remote="gitorious" revision="replicant-4.0" />
 	<project path="kernel/samsung/crespo" name="replicant/kernel_samsung_crespo" remote="gitorious" revision="replicant-4.0" />
+	<project path="kernel/samsung/aries" name="replicant/kernel_samsung_aries" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- device -->
 
@@ -124,6 +126,8 @@
 	<project path="device/samsung/tuna" name="replicant/device_samsung_tuna" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/samsung/galaxys2" name="replicant/device_samsung_galaxys2" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/samsung/crespo" name="replicant/device_samsung_crespo" remote="gitorious" revision="replicant-4.0" />
+	<project path="device/samsung/aries-common" name="replicant/device_samsung_aries-common" remote="gitorious" revision="replicant-4.0" />
+	<project path="device/samsung/galaxysmtd" name="replicant/device_samsung_galaxysmtd" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- external -->
 

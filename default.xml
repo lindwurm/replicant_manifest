@@ -100,11 +100,10 @@
 
 	<!-- kernel -->
 
-	<project path="kernel-gta04" name="replicant/kernel-gta04" remote="gitorious" revision="replicant-2.3" />
-	<project path="kernel-aries" name="replicant/kernel-aries" remote="gitorious" revision="replicant-2.3" />
-	<project path="kernel-crespo" name="replicant/kernel-crespo" remote="gitorious" revision="replicant-2.3" />
-	<project path="kernel-msm" name="replicant/kernel-msm" remote="gitorious" revision="replicant-2.3" />
-	<project path="kernel-apollo" name="replicant/kernel-apollo" remote="gitorious" revision="replicant-2.3" />
+	<project path="kernel/goldelico/gta04" name="replicant/kernel_goldelico_gta04" remote="gitorious" revision="replicant-2.3" />
+	<project path="kernel/samsung/aries" name="replicant/kernel_samsung_aries" remote="gitorious" revision="replicant-2.3" />
+	<project path="kernel/samsung/crespo" name="replicant/kernel_samsung_crespo" remote="gitorious" revision="replicant-2.3" />
+	<project path="kernel/htc/msm" name="replicant/kernel_htc_msm" remote="gitorious" revision="replicant-2.3" />
 
 	<!-- device -->
 

@@ -107,6 +107,7 @@
 	<project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
 	<project path="hardware/tinyalsa-audio" name="replicant/hardware_tinyalsa-audio" remote="gitorious" revision="replicant-4.0" />
 	<project path="hardware/yamaha-mc1n2-audio" name="replicant/hardware_yamaha-mc1n2-audio" remote="gitorious" revision="replicant-4.0" />
+	<project path="hardware/libakm_free" name="replicant/hardware_libakm_free" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- kernel -->
 

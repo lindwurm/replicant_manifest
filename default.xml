@@ -31,7 +31,7 @@
 	<!-- ndk/sdk -->
 
 	<project path="ndk" name="CyanogenMod/android_ndk" />
-	<project path="sdk" name="CyanogenMod/android_sdk" />
+	<project path="sdk" name="replicant/sdk" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- internals -->
 

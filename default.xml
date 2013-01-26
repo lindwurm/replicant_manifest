@@ -115,6 +115,7 @@
 	<project path="kernel/samsung/smdk4210" name="replicant/kernel_samsung_smdk4210" remote="gitorious" revision="replicant-4.0" />
 	<project path="kernel/samsung/crespo" name="replicant/kernel_samsung_crespo" remote="gitorious" revision="replicant-4.0" />
 	<project path="kernel/samsung/aries" name="replicant/kernel_samsung_aries" remote="gitorious" revision="replicant-4.0" />
+	<project path="kernel/samsung/espresso10" name="replicant/kernel_samsung_espresso10" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- device -->
 

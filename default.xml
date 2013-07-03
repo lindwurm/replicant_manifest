@@ -116,6 +116,7 @@
 	<project path="kernel/samsung/crespo" name="replicant/kernel_samsung_crespo" remote="gitorious" revision="replicant-4.0" />
 	<project path="kernel/samsung/aries" name="replicant/kernel_samsung_aries" remote="gitorious" revision="replicant-4.0" />
 	<project path="kernel/samsung/espresso10" name="replicant/kernel_samsung_espresso10" remote="gitorious" revision="replicant-4.0" />
+	<project path="kernel/samsung/smdk4412" name="replicant/kernel_samsung_smdk4412" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- device -->
 
@@ -135,6 +136,7 @@
 	<project path="device/samsung/p3110" name="replicant/device_samsung_p3110" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/samsung/p5100" name="replicant/device_samsung_p5100" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/samsung/p5110" name="replicant/device_samsung_p5110" remote="gitorious" revision="replicant-4.0" />
+	<project path="device/samsung/i9300" name="replicant/device_samsung_i9300" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- external -->
 

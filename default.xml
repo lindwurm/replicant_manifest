@@ -266,7 +266,7 @@
 	<project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
 	<project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
 	<project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-	<project path="external/libsamsung-ipc" name="morphis/libsamsung-ipc" remote="github" revision="master" />
+	<project path="external/libsamsung-ipc" name="replicant/external_libsamsung-ipc" remote="gitorious" revision="master" />
 
 	<!-- packages -->
 

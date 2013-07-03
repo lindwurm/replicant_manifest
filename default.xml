@@ -85,6 +85,7 @@
 	<project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
 	<project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
 	<project path="bootable/recovery" name="replicant/bootable_recovery" remote="gitorious" revision="replicant-4.0" />
+	<project path="bootable/bootloader/goldelico/gta04" name="replicant/bootable_bootloader_goldelico_gta04" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- hardware -->
 
@@ -117,6 +118,7 @@
 	<project path="kernel/samsung/aries" name="replicant/kernel_samsung_aries" remote="gitorious" revision="replicant-4.0" />
 	<project path="kernel/samsung/espresso10" name="replicant/kernel_samsung_espresso10" remote="gitorious" revision="replicant-4.0" />
 	<project path="kernel/samsung/smdk4412" name="replicant/kernel_samsung_smdk4412" remote="gitorious" revision="replicant-4.0" />
+	<project path="kernel/goldelico/gta04" name="replicant/kernel_goldelico_gta04" remote="gitorious" revision="android-3.0-gta04" />
 
 	<!-- device -->
 
@@ -137,6 +139,7 @@
 	<project path="device/samsung/p5100" name="replicant/device_samsung_p5100" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/samsung/p5110" name="replicant/device_samsung_p5110" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/samsung/i9300" name="replicant/device_samsung_i9300" remote="gitorious" revision="replicant-4.0" />
+	<project path="device/goldelico/gta04" name="replicant/device_goldelico_gta04" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- external -->
 

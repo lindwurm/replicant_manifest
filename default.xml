@@ -86,6 +86,7 @@
 	<project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
 	<project path="bootable/recovery" name="replicant/bootable_recovery" remote="gitorious" revision="replicant-4.0" />
 	<project path="bootable/bootloader/goldelico/gta04" name="replicant/bootable_bootloader_goldelico_gta04" remote="gitorious" revision="replicant-4.0" />
+	<project path="bootable/bootloader/goldelico/gta04/x-loader" name="replicant/bootable_bootloader_goldelico_gta04_x-loader" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- hardware -->
 

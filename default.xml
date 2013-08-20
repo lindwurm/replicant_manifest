@@ -140,6 +140,7 @@
 	<project path="device/samsung/p5100" name="replicant/device_samsung_p5100" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/samsung/p5110" name="replicant/device_samsung_p5110" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/samsung/i9300" name="replicant/device_samsung_i9300" remote="gitorious" revision="replicant-4.0" />
+	<project path="device/samsung/n7000" name="replicant/device_samsung_n7000" remote="gitorious" revision="replicant-4.0" />
 	<project path="device/goldelico/gta04" name="replicant/device_goldelico_gta04" remote="gitorious" revision="replicant-4.0" />
 
 	<!-- external -->

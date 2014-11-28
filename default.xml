@@ -76,7 +76,7 @@
 	<project path="bionic" name="CyanogenMod/android_bionic" />
 	<project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
 	<project path="dalvik" name="CyanogenMod/android_dalvik" />
-	<project path="libcore" name="CyanogenMod/android_libcore" />
+	<project path="libcore" name="replicant/libcore" remote="gitorious" revision="replicant-4.2" />
 	<project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
 
 	<!-- system -->

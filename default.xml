@@ -82,7 +82,7 @@
 	<project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
 	<project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
 	<project path="hardware/ril" name="replicant/hardware_ril" remote="gitorious" revision="replicant-2.3" />
-	<project path="hardware/ril/hayes-ril" name="replicant/hardware_ril_hayes-ril" remote="gitorious" revision="replicant-2.3" />
+	<project path="hardware/ril/hayes-ril" name="replicant/hardware_ril_hayes-ril" remote="gitorious" revision="master" />
 	<project path="hardware/ril/htcgeneric-ril" name="replicant/hardware_ril_xdandroid-ril" remote="gitorious" revision="replicant-2.3" />
 	<project path="hardware/ril/samsung-ril" name="replicant/hardware_ril_samsung-ril" remote="gitorious" revision="master" />
 	<project path="hardware/ril/samsung-ril-client" name="replicant/hardware_ril_samsung-ril-client" remote="gitorious" revision="replicant-2.3" />

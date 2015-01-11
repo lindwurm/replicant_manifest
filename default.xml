@@ -71,7 +71,7 @@
 	<project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
 	<project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
 	<project path="bootable/recovery" name="replicant/bootable_recovery" remote="gitorious" revision="replicant-2.3" />
-	
+
 	<!-- hardware -->
 
 	<project path="hardware/broadcom/wlan" name="replicant/hardware_broadcom_wlan" remote="gitorious" revision="replicant-2.3" />
@@ -286,7 +286,7 @@
 	<project path="external/srec" name="CyanogenMod/android_external_srec" />
 	<project path="external/stlport" name="CyanogenMod/android_external_stlport" />
 	<project path="external/strace" name="CyanogenMod/android_external_strace" />
-	<project path="external/svox" name="CyanogenMod/android_external_svox" />
+	<project path="external/svox" name="replicant/external_svox" remote="gitorious" revision="replicant-2.3" />
 	<project path="external/tagsoup" name="CyanogenMod/android_external_tagsoup" />
 	<project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" />
 	<project path="external/tinyxml" name="CyanogenMod/android_external_tinyxml" />
@@ -305,7 +305,7 @@
 	<project path="external/tinyalsa" name="tinyalsa/tinyalsa" remote="github" revision="master" />
 
 	<!-- packages -->
-	
+
 	<project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
 	<project path="packages/apps/AicBootFix" name="CyanogenMod/android_packages_apps_AicBootFix" revision="master"/>
 	<project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" />

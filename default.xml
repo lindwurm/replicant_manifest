@@ -413,7 +413,7 @@
 	<project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
 	<project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
 	<project path="packages/apps/Nfc" name="replicant/packages/apps/nfc" remote="replicant" revision="replicant-4.2" />
-	<project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
+	<project path="packages/apps/PackageInstaller" name="replicant/packages/apps/packageinstaller" remote="replicant" revision="replicant-4.2" />
 	<project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
 	<project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
 	<project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />

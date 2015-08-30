@@ -90,7 +90,7 @@
 
 	<!-- frameworks -->
 
-	<project path="frameworks/av" name="CyanogenMod/android_frameworks_av" />
+	<project path="frameworks/av" name="replicant/frameworks/av" remote="replicant" revision="replicant-4.2" />
 	<project path="frameworks/base" name="replicant/frameworks/base" remote="replicant" revision="replicant-4.2" />
 	<project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
 	<project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />

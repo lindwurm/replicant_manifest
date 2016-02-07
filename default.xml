@@ -552,4 +552,9 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
+<!-- DEVICE SPECIFIC -->
+<project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
+<project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
+<project path="external/stlport" name="CyanogenMod/android_external_stlport" />
+
 </manifest>

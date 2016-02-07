@@ -557,4 +557,7 @@
 <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
 <project path="external/stlport" name="CyanogenMod/android_external_stlport" />
 
+<!-- TOOLCHAIN -->
+<project path="toolchain/src/gcc" name="toolchain/gcc" remote="aosp" revision="master" />
+
 </manifest>

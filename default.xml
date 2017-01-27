@@ -527,6 +527,7 @@
 <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
 <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
 <project path="external/stlport" name="CyanogenMod/android_external_stlport" />
+<project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" />
 
 <!-- TOOLCHAIN -->
 <project path="toolchain/src/gcc" name="toolchain/gcc" remote="aosp" revision="master" />

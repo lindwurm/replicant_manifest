@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
-           fetch="https://android.googlesource.com"
-           review="android-review.googlesource.com"
-           revision="refs/tags/android-6.0.1_r78" />
-
   <remote  name="github"
            fetch="https://github.com/"
            review="review.lineageos.org" />
@@ -23,7 +18,6 @@
   <project path="abi/cpp" name="LineageOS/android_abi_cpp" groups="pdk" />
   <project path="art" name="LineageOS/android_art" groups="pdk" />
   <project path="bionic" name="LineageOS/android_bionic" groups="pdk" />
-  <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="marshmallow-cts-release" remote="aosp" />
   <project path="dalvik" name="LineageOS/android_dalvik" groups="pdk-cw-fs,pdk-fs" />
   <project path="development" name="LineageOS/android_development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/common" name="LineageOS/android_device_common" groups="pdk-cw-fs,pdk-fs" />

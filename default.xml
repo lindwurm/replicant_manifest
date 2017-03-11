@@ -273,6 +273,7 @@
 <project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" />
 <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
 <project path="external/stlport" name="LineageOS/android_external_stlport" />
+<project path="device/samsung/smdk4412-qcom-common" name="LineageOS/android_device_samsung_smdk4412-qcom-common" />
 <!-- END DEVICE SPECIFIC -->
 
 </manifest>

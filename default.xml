@@ -55,6 +55,7 @@
   <project path="external/f2fs-tools" name="LineageOS/android_external_f2fs-tools" groups="pdk" />
   <project path="external/ffmpeg" name="LineageOS/android_external_ffmpeg" />
   <project path="external/flac" name="LineageOS/android_external_flac" groups="pdk" />
+  <project path="external/freetype" name="LineageOS/android_external_freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="LineageOS/android_external_fsck_msdos" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/fuse" name="LineageOS/android_external_fuse" />
   <project path="external/gello-build" name="LineageOS/android_external_gello_build" />
@@ -73,11 +74,14 @@
   <project path="external/koush/AndroidAsync" name="LineageOS/AndroidAsync" />
   <project path="external/koush/ion" name="LineageOS/ion" />
   <project path="external/libavc" name="LineageOS/android_external_libavc" groups="pdk" />
+  <project path="external/libhevc" name="LineageOS/android_external_libhevc" groups="pdk-fs" />
+  <project path="external/libmpeg2" name="LineageOS/android_external_libmpeg2" groups="pdk" />
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" />
   <project path="external/libnetfilter_conntrack" name="LineageOS/android_external_libnetfilter_conntrack" />
   <project path="external/libnfc-nci" name="LineageOS/android_external_libnfc-nci" groups="pdk" />
   <project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" groups="pdk" />
   <project path="external/libnfnetlink" name="LineageOS/android_external_libnfnetlink" />
+  <project path="external/libnl" name="LineageOS/android_external_libnl" groups="pdk"  />
   <project path="external/libphonenumbergoogle" name="LineageOS/android_external_libphonenumbergoogle" />
   <project path="external/libselinux" name="LineageOS/android_external_libselinux" groups="pdk" />
   <project path="external/libtar" name="LineageOS/android_external_libtar" />

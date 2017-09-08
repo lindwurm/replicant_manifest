@@ -59,6 +59,7 @@
   <project path="external/fsck_msdos" name="LineageOS/android_external_fsck_msdos" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/fuse" name="LineageOS/android_external_fuse" />
   <project path="external/gello-build" name="LineageOS/android_external_gello_build" />
+  <project path="external/giflib" name="LineageOS/android_external_giflib" groups="pdk,qcom_msm8x26" />
   <project path="external/gmock" name="LineageOS/android_external_gmock"/>
   <project path="external/gptfdisk" name="LineageOS/android_external_gptfdisk" groups="pdk-fs" />
   <project path="external/gson" name="LineageOS/android_external_gson" />
@@ -110,6 +111,7 @@
   <project path="external/protobuf-c" name="LineageOS/android_external_protobuf-c" />
   <project path="external/rsync" name="LineageOS/android_external_rsync" />
   <project path="external/sepolicy" name="LineageOS/android_external_sepolicy" groups="pdk" />
+  <project path="external/sfntly" name="LineageOS/android_external_sfntly" groups="pdk,qcom_msm8x26" />
   <project path="external/skia" name="LineageOS/android_external_skia" groups="pdk,qcom_msm8x26" />
   <project path="external/sonivox" name="LineageOS/android_external_sonivox" groups="pdk" />
   <project path="external/speex" name="LineageOS/android_external_speex" groups="pdk" />
@@ -122,8 +124,10 @@
   <project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" />
   <project path="external/tinyxml2" name="LineageOS/android_external_tinyxml2" groups="pdk" />
   <project path="external/toybox" name="LineageOS/android_external_toybox" groups="pdk" />
+  <project path="external/tremolo" name="LineageOS/android_external_tremolo" groups="pdk" />
   <project path="external/uicommon" name="LineageOS/android_external_cyanogen_UICommon" />
   <project path="external/unzip" name="LineageOS/android_external_unzip" />
+  <project path="external/v8" name="LineageOS/android_external_v8" groups="pdk" />
   <project path="external/vim" name="LineageOS/android_external_vim" />
   <project path="external/vogar" name="LineageOS/android_external_vogar" groups="pdk" />
   <project path="external/wpa_supplicant_8" name="LineageOS/android_external_wpa_supplicant_8" groups="pdk" />
